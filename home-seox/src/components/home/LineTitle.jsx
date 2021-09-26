@@ -16,7 +16,7 @@ export function LineTitle({title, content, button, href}){
         }
     `;
     return (
-        <div className="flex justify-between items-center mb-8">
+        <div className="flex justify-between items-center my-8">
             <div>
                 <h3 className="mb-2 text-blue-default font-semibold uppercase">{title}</h3>
                 <p className="text-4xl font-bold">{content}</p>
