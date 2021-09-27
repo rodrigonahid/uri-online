@@ -5,6 +5,7 @@ var lines = input.split('\n')
 let piece1 = lines[0].split(' ');
 let piece2 = lines[1].split(' ');
 
+
 function ValorTotal(){
   let produto1 = Number(piece1[1]) * parseFloat(piece1[2])
   let produto2 = Number(piece2[1]) * parseFloat(piece2[2])
