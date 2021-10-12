@@ -1,0 +1,12 @@
+{
+  "name": "uri-online",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rodrigonahid/uri-online.git",
+  "author": "rodrigonahid <rodrigonahid1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.10.4",
+    "typescript": "^4.4.4"
+  }
+}
